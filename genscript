@@ -1,0 +1,12 @@
+#!/bin/bash
+#run from /build, graphGen program in /project
+
+for i in {5..50..5} #number of vertices for graph
+    do
+        for k in {1..10} #run 10 times
+            do
+            ../graphGen $i | ./ece650-prj
+        done
+done
+
+

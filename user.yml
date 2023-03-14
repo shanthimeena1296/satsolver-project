@@ -1,0 +1,18 @@
+---
+# Personal information
+# Enter information for both team members
+# Leave the second entry as is if there is only one person
+# on your team
+-
+  first: Brian
+  last: Luong
+  watiam: b2luong
+  student: 20721970
+  email: b2luong@uwaterloo.ca
+-
+  first: Shanthi Meena
+  last: Arumugam
+  watiam: smarumug
+  student: 20986268
+  email: smarumug@uwaterloo.ca
+...
